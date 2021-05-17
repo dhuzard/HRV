@@ -1,4 +1,4 @@
-HRV
+HRV from @DHuzard (mainly adapted from existing modules, please cite them as well !)
 
 Test of HRV analysis
 
